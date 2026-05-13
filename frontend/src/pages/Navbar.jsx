@@ -1,6 +1,7 @@
-
 export default function Navbar() {
   return (
-    <div>Navbar</div>
-  )
+    <div>
+      <p>jdfhfhjfhjsvdhfsh</p>
+    </div>
+  );
 }
